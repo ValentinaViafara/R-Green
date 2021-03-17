@@ -1,6 +1,6 @@
 Integrantes 
 
-* Andres Narvaés
+* Andres Narvaéz
 * Ederson Fajardo
 * Fernando Parra
 * Juan Camilo Tobon 
